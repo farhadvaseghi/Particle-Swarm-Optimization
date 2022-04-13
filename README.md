@@ -60,5 +60,5 @@ It's seen in the second graph the effect of lining up these vectors and then the
 
 
 
-<img align="right" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="400">
+<img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="600">
 
