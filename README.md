@@ -64,7 +64,9 @@ Likewise <img src="https://latex.codecogs.com/gif.latex?\phi_gr_g(g_b-x_i)" titl
 
 It's seen in the second graph the effect of lining up these vectors and then the final step of moving the particle to it's new position. 
 
+<kbd>
+   <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="600">
+</kbd>
 
 
-<img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="600">
 
