@@ -4,7 +4,13 @@
 ## Particle Swarm
 Particle Swarm Optimization was proposed by Kennedy and Eberhart in 1995. As mentioned in the original paper, sociobiologists believe a school of fish or a flock of birds that moves in a group “can profit from the experience of all other members”. In other words, while a bird flying and searching randomly for food, for instance, all birds in the flock can share their discovery and help the entire flock get the best hunt.
 While we can simulate the movement of a flock of birds, we can also imagine each bird is to help us find the optimal solution in a high-dimensional solution space and the best solution found by the flock is the best solution in the space. This is a heuristic solution because we can never prove the real global optimal solution can be found and it is usually not. However, we often find that the solution found by PSO is quite close to the global optimal.
-![Screenshot](flocking.PNG)
+<p align="center">
+  <kbd>
+   <img src="flocking.PNG"  width="700" height="500">
+</kbd>
+</p>
+
+
 
 
 PSO is best used to PSO is best used to find the maximum or 
