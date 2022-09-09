@@ -63,10 +63,10 @@ The term <img src="https://latex.codecogs.com/gif.latex?\phi_br_b(x_{i_b}-x_i)" 
 Likewise <img src="https://latex.codecogs.com/gif.latex?\phi_gr_g(g_b-x_i)" title="\phi_gr_g(g_b-x_i)" /> represents the vector from the particles position towards the swarms best position, again scaled by a constant <img src="https://latex.codecogs.com/gif.latex?\phi_g" title="\phi_g" /> and a random variable <img src="https://latex.codecogs.com/gif.latex?r_g" title="r_g" />. Varying these phi (or c) parameters effect how locally or globally the particle explores the search space. A higher value will provide a larger vector and therefore the particle will take into account that aspect more than another. 
 
 It's seen in the second graph the effect of lining up these vectors and then the final step of moving the particle to it's new position. 
-
+<p align="center">
 <kbd>
    <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="600">
 </kbd>
-
+</p>
 
 
